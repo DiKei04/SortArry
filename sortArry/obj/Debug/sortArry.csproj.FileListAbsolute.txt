@@ -1,0 +1,8 @@
+C:\Users\Dima\source\repos\Heap Sort\Heap Sort\bin\Debug\Heap Sort.exe.config
+C:\Users\Dima\source\repos\Heap Sort\Heap Sort\bin\Debug\Heap Sort.exe
+C:\Users\Dima\source\repos\Heap Sort\Heap Sort\bin\Debug\Heap Sort.pdb
+C:\Users\Dima\source\repos\Heap Sort\Heap Sort\obj\Debug\sortArry.csproj.AssemblyReference.cache
+C:\Users\Dima\source\repos\Heap Sort\Heap Sort\obj\Debug\sortArry.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dima\source\repos\Heap Sort\Heap Sort\obj\Debug\sortArry.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\Heap Sort\Heap Sort\obj\Debug\Heap Sort.exe
+C:\Users\Dima\source\repos\Heap Sort\Heap Sort\obj\Debug\Heap Sort.pdb
